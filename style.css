@@ -1,11 +1,12 @@
 h1 {
   font-family: 'Times New Roman';
   font-size: 72px;
-  color:firebrick;
+  color:purple;
+  text-align: center
 }
 
 p {
   font-family: Arial;
   font-size: 18px;
-  color: darkslategrey;
+  color: blue;
 }
