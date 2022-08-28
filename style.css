@@ -16,13 +16,13 @@ p {
 #imageContainer {
   float: right;
   width: 500px;
-}/* formating pictuer */
+}<!-- picture format -->
 
 hr {
   height: 2px;
   background-color: white;
   border: 2px solid black;
-      /* size style color */
+     <!--border line element -->
   margin-top: 70px;
   margin-bottom: 70px;
 }
