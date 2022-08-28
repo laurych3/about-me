@@ -2,14 +2,16 @@ image { text-align:center;
 }
   
 
-h1, p {
+h1, p, h2 {
   font-family:'Times New Roman';
+  font-size: 24px;
 }
 
 h1 {
     font-size: 72px;
   color:purple;
   text-align: center
+ 
 }
 
 p {
@@ -25,4 +27,9 @@ hr {
      <!--border line element -->
   margin-top: 70px;
   margin-bottom: 70px;
+}
+
+h3 {
+  font-size: 30px;
+  padding-top: 270px; 
 }
