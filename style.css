@@ -1,3 +1,5 @@
+
+
 h1 {
   font-family: 'Times New Roman';
   font-size: 72px;
@@ -14,4 +16,13 @@ p {
 #imageContainer {
   float: right;
   width: 500px;
+}/* formating pictuer */
+
+hr {
+  height: 2px;
+  background-color: white;
+  border: 2px solid black;
+      /* size style color */
+  margin-top: 70px;
+  margin-bottom: 70px;
 }
