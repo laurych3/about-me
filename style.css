@@ -43,20 +43,20 @@ content: "I-O";
 
 
 /* unvisited link */
-a::link {
+ol::link {
   color: red;
 }
 
 /* visited link */
-a::visited {
+ol::visited {
   color: silver;
 }
 
 /* mouse over link */
-a::hover {
+ol::hover {
   color: hotpink;
 }
 
 /* selected link */
-a::active {
+ol::active {
   color: gray;
