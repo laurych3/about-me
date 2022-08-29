@@ -33,7 +33,7 @@ h3 {             /*h3 font size will be 30px and the padding bottom will be 2px*
   padding-bottom: 2px; 
 }
 
-a: visited {
+a: visited {   /*color change when link is pressed*/
   background-color: silver;
   border-color: blue;
   color: red;
