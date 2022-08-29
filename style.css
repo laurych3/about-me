@@ -34,9 +34,7 @@ h3 {             /*h3 columbus ohio guidline*/
 }
 
 
-h3::befor{
-content: "O-H";
-}
+
 h3::after{
-content: "I-O";
+content: "......O-H-I-O";
 }
