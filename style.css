@@ -23,7 +23,6 @@ hr {
   height: 2px;              /*the line breaks will be whight with black border wiht a margin top and bottom of 70px and a height of 2px */
   background-color: white;
   border: 2px solid black;
-     <!--border line element -->
   margin-top: 70px;
   margin-bottom: 70px;
 }
@@ -34,7 +33,6 @@ h3 {             /*h3 font size will be 30px and the padding bottom will be 2px*
 }
 
 a: visited {   /*color change when link is pressed*/
-  background-color: silver;
-  border-color: blue;
+  font-size: 40px;
   color: red;
 }
