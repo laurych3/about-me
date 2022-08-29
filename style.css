@@ -34,5 +34,5 @@ h3 {             /*h3 font size will be 30px and the padding bottom will be 2px*
 
 a: visited {   /*color change when link is pressed*/
   font-size: 40px;
-  color: red;
+  color: green;
 }
