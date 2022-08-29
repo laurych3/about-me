@@ -32,6 +32,8 @@ h3 {             /*h3 columbus ohio guidline*/
   padding-bottom: 2px;
   color: scarlet;
 }
-li: hover {
-  color: silver;
+
+
+h3::after{
+content: "O-H-I-O!";
 }
