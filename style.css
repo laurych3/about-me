@@ -34,9 +34,9 @@ h3, h4 {             /*h3 columbus ohio  and contact list guidline*/
 }
 
 h3::before{
-content: "......O-H";
+content: "O-H ";
 }
 
-h3::after{
-content: "......I-O";
+div::after{
+content: "I-O";
 }
