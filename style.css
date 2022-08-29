@@ -41,22 +41,8 @@ div::after{
 content: "I-O";
 }
 
-
-/* unvisited link */
-li::link {
-  color: red;
-}
-
-/* visited link */
-li::visited {
-  color: silver;
-}
-
 /* mouse over link */
 li::hover {
   color: hotpink;
 }
 
-/* selected link */
-li::active {
-  color: gray;
