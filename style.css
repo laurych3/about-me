@@ -32,10 +32,6 @@ h3 {             /*h3 columbus ohio guidline*/
   padding-bottom: 2px;
   color: scarlet;
 }
-
-a: any-link {   /*linkedin guideline*/
-  font-size: 40px;
-  color: green;
-  curser: pointer:
-  border: 1px solid blue;
+li: hover {
+  color: silver;
 }
