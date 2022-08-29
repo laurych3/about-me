@@ -7,32 +7,33 @@ h1, p, h2 {
 }
 
 h1 {
-    font-size: 72px;  /*h1 will be set to purple with a center alignement */
+    font-size: 72px;  /*h1 "hello my name is" guideline */
   color:purple;
   text-align: center
  
 }
 
 p {
-   font-size: 30px; /*p will be blue with size 30px */
+   font-size: 30px; /*p "great state of " guidline  30px */
   color: blue;
 }
 
 
 hr {
-  height: 2px;              /*the line breaks will be whight with black border wiht a margin top and bottom of 70px and a height of 2px */
+  height: 2px;              /*the line breaks guideline */
   background-color: white;
   border: 2px solid black;
   margin-top: 70px;
   margin-bottom: 70px;
 }
 
-h3 {             /*h3 font size will be 30px and the padding bottom will be 2px*/
+h3 {             /*h3 columbus ohio guidline*/
   font-size: 30px;
-  padding-bottom: 2px; 
+  padding-bottom: 2px;
+  color: scarlet;
 }
 
-a: any-link {   /*color change when items are pressed*/
+a: any-link {   /*linkedin guideline*/
   font-size: 40px;
   color: green;
   curser: pointer:
