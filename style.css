@@ -42,7 +42,7 @@ content: "I-O";
 }
 
 /* mouse over link */
-li::hover {
+li:hover {
   color: hotpink;
 }
 
