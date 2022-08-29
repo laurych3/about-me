@@ -33,7 +33,7 @@ h3, h4 {             /*h3 columbus ohio  and contact list guidline*/
   color: scarlet;
 }
 
-h3::before{                   /*GO bucks! OHIO :)*/
+div::before{                   /*GO bucks! OHIO :)*/
 content: "O-H ";
 }
 
