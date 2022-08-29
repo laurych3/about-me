@@ -33,12 +33,8 @@ h3 {             /*h3 font size will be 30px and the padding bottom will be 2px*
   padding-bottom: 2px; 
 }
 
-linkedinBTN: active {
-      box-shadow: 2px 2px 5px #fc894d;
-}
-.joinBtn {
-    width: 10px;
-    height: 5px;
-   color: white;
-    cursor: pointer;
+a: visited {
+  background-color: silver;
+  border-color: blue;
+  color: red;
 }
